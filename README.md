@@ -1,7 +1,7 @@
 
 ## 🎯 Goal Of The Project
 
-The aim of this tutorial was to get hands-on experience on UIKit development using the Model-View-Controller (MVC) architecture. Topics covered include making API calls, handling JSON parsing, navigating link and integrating UI components such as UICollectionView, and incorporating UIWebView for web content within an MVC structure.
+The aim of this tutorial is to get hands-on experience on UIKit development using the Model-View-Controller (MVC) architecture. Topics covered include making API calls, handling JSON parsing, navigating link and integrating UI components such as UICollectionView, and incorporating UIWebView for web content within an MVC structure.
 
 ## ✅ Screenshots
 <p align="left">
